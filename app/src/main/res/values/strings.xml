@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoldIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Foldit Remote Control</string>
+</resources>
